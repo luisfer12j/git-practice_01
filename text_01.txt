@@ -1,2 +1,3 @@
 este es un texto simple
 este es un segundo texto simple
+que esta siendo editado en otra rama
